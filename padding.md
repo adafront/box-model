@@ -1,8 +1,8 @@
-# Ejercicio 23
+# Ejercicio 3
 
-* Crear un documento HTML con el nombre index23.html
+* Crear un documento HTML con el nombre padding.html
 
-## index23.html
+## padding.html
 * Title: Estas cajas necesita AIRE!!
 * Declarar una etiqueta style
 * Crear un título h1 con el siguiente texto 'Estas cajas necesita AIRE!!'

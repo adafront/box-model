@@ -1,8 +1,8 @@
-# Ejercicio 22
+# Ejercicio 1
 
-* Crear un documento HTML con el nombre index22.html
+* Crear un documento HTML con el nombre bordes.html
 
-## index22.html
+## bordes.html
 * Title: Esto es muy border
 * Declarar una etiqueta style
 * Crear un título h1 con el siguiente texto 'Esto es muy border'

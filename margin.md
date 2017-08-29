@@ -1,9 +1,9 @@
-# Ejercicio 24
+# Ejercicio 2
 
-* Crear un documento HTML con el nombre index24.html
+* Crear un documento HTML con el nombre margin.html
 
-## index24.html
-* Copiar el contenido del ejercicio anterior (index23.html)
+## margin.html
+* Copiar el contenido del ejercicio anterior (bordes.html)
 * Cambiar el Title: Jugando con márgenes
 * Cambiár el contenido del título h1 por el texto 'Jugando con márgenes'
 * Agregar en la etiqueta style:
